@@ -1,0 +1,9 @@
+torch
+transformers
+sentence-transformers
+datasets
+huggingface-hub
+pytrec-eval
+pandas
+tensorboard
+notebook
